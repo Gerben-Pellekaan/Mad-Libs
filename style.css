@@ -1,0 +1,46 @@
+body{
+	background-color: gray;
+}
+
+#container{
+	background-color: white;
+	margin: 0 auto;
+	width: 700px;
+}
+
+#mad-libs{
+	margin-left: 420px;
+	font-size: 60px;
+	color: white;
+}
+
+#menu{
+	background-color: red;
+	height: 40px;
+}
+	#menu > a{
+		text-decoration: none;
+		color: white;
+		font-size: 18px;
+		padding: 10px;
+		position: relative;
+		top: 10px;
+	}
+
+#vragenlijst{
+	background-color: white;
+	height:400px;
+	padding: 5px;
+}
+
+input{
+	float: right;
+	margin-right: 150px;
+}
+
+#footer{
+	background-color: #5f5f54;
+	text-align: center;
+	color: white;
+}
+
